@@ -1,14 +1,10 @@
 ---
-title: SisfoCloud
-emoji: 🌐
-colorFrom: blue
-colorTo: green
+title: Praktekcloud01
+emoji: 👀
+colorFrom: pink
+colorTo: yellow
 sdk: docker
-app_port: 7860
 pinned: false
+short_description: Buat belajar cloud sederhana
 ---
-# SisfoCloud
 
-Website ini di-host menggunakan Docker di Hugging Face Spaces.
-
-Dibuat dengan ❤️ oleh rofi.
